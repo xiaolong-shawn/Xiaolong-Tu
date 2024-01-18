@@ -21,12 +21,11 @@ menu:
           url: data/
           weight: 3 
         - name: Newsletter
-          url: https://pmichaillat.substack.com
+          url: 
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "PhD student @ Georgia State University"
     author: Xiaolong
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -64,7 +63,7 @@ consequat."
             - name: Data
               url: data/
             - name: Newsletter
-              url: https://pmichaillat.substack.com
+              url: 
             - name: Tags
               url: tags/
             - name: Archive
